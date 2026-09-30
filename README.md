@@ -77,3 +77,19 @@ Run the simulation. Use the interactive push buttons to adjust the set temperatu
 
 Developed as a portfolio project showcasing embedded systems principles and C programming.
 
+---
+
+## 👨‍💻 Author
+
+**Ahmed**
+*Electrical & Communications Engineering Student | Embedded Systems & IoT | AI & ML Enthusiast | Web Dev*
+
+* 🔗 **LinkedIn:** [Connect with me on LinkedIn](www.linkedin.com/in/a7med-ma7moud2005)
+* ✉️ **Email:** ahmedaboabbas1@gmail.com
+
+---
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are always welcome! 
+If you have any ideas to optimize the layered architecture or add new features, feel free to fork the repository and submit a pull request.
+
