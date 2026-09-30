@@ -45,11 +45,9 @@ The firmware is built using a strict layered architecture to separate hardware-s
 ## 📸 Simulation & Demo
 
 ### Circuit Schematic
-*(Replace this text and the link below with the path to your actual screenshot)*
-![Circuit Schematic](Path_to_your_screenshot_image.png)
+![Circuit Schematic](assats/Circuit Schematic.png)
 
 ### Video Demonstration
-*(You can add a link to your LinkedIn video or a YouTube demo here)*
 [Watch the system in action on LinkedIn](Link_to_your_video)
 
 ---
